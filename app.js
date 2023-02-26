@@ -84,7 +84,7 @@ function updateTile(tile, num) {
     }
 }
 
-document.addEventListener("click", "keyup", (e) => {
+document.addEventListener("keyup", (e) => {
     if (e.code == "ArrowLeft") {
         slideLeft();
         setTwo();
