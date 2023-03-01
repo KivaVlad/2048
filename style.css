@@ -4,7 +4,7 @@ body {
 }
 
 hr {
-    width: auto;
+    width: 400px;
 }
 
 #board {
@@ -30,12 +30,12 @@ hr {
 
 .x2 {
     background-color: #eee4da;
-    color: #727371;
+    color: #000;
 }
 
 .x4 {
     background-color: #ece0ca;
-    color: #727371;
+    color: #000;
 }
 
 .x8 {
